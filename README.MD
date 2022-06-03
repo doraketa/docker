@@ -6,7 +6,7 @@ Hello! This is my repository for docker. Here and now I will write notes necessa
 ## Docker Pages:
 
 - Main page (you are here);
-- Docker commands: [Commands list](http://example.com)
+- Docker commands: [Commands list](https://github.com/doraketa/docker/blob/master/commands/README.MD)
 
 ## Docker description:
 
