@@ -3,9 +3,13 @@
 
 Hello! This is my repository for docker. Here and now I will write notes necessary for working with docker, as well as technical nuances for various kinds of projects.
 
+## Docker description:
+
+Docker is an engine that runs a virtual operating system that has a small weight. It allows you to run projects (environments) in a virtual environment without creating a full-fledged operating system, which makes work easier.
+
 ## Docker installation (only linux)
 
-In order to install Docker on debian-like systems, we need to use the following list of commands in turn:
+In order to install Docker on debian-like systems, we need to use the following list of commands in turn.
 
 #### Step by step:
 
