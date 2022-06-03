@@ -45,7 +45,7 @@ Then, after we have added the Docker repositories, we try to update the system a
 Installing additional packages for Docker:
 
 ```sh
-  $ sudo apt install docker-ce docker-ce-cli containerd.io -y
+  $ apt install docker-ce docker-ce-cli containerd.io -y
 ```
 
 Initially, our Docker will not know that it needs to be launched together with the system (optional), and after installation it will not be launched. Let's do it:
