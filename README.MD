@@ -10,6 +10,7 @@ Hello! This is my repository for docker. Here and now I will write notes necessa
 - Dockerfile: [Dockerfile](https://github.com/doraketa/docker/blob/master/dockerfile/README.MD)
 - Mounting local directory into Container: [Mounting](https://github.com/doraketa/docker/blob/master/mounting/README.MD)
 - Volumes: [Volumes](https://github.com/doraketa/docker/blob/master/volumes/README.MD)
+- Ports: [Ports](https://github.com/doraketa/docker/blob/master/ports/README.MD)
 
 ## Docker description:
 
