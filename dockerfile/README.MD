@@ -15,4 +15,6 @@ Dockerfile is a kind of recipe in the Docker kitchen. It allows you to recreate 
 | `COPY`  | This is a command for copying file from our system into container system.                 |
 | `RUN`  | This is a command for executing shell-command from container terminal.                 |
 | `CMD`  | This is a command to execute the specified list of commands every time the container is started again.                 |
-| `CMD`  | This command provides commands and arguments for the running container.                 |
+| `ENTRYPOINT`  | This command provides commands and arguments for the running container.                 |
+| `WORKDIR`  | This command creates a folder if it is not created, and moves to it. Similar to executing `mkdir /var/www/html && cd /var/www/html commands`.                 |
+| `EXPOSE`  | Allowing port access to the main operating system.                 |
