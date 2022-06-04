@@ -19,3 +19,4 @@
 | command   | Description                                                      |
 | :-------- | :-------------------------                                       |
 | `$ docker run -it ubuntu:XX.XX /bin/bash`  | This command will launch the interactive mode of using /bin/bash in our running container.                 |
+| `$ docker run -p <HOST_PORT>:<CONTAINER_PORT>`  | This command allows you to start the container, while sharing the port to an external operating system.                 |
