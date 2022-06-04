@@ -1,6 +1,6 @@
-## Docker commands example
+# Docker commands example
 
-#### Main commands list:
+## Main commands list:
 
 | command   | Description                                                      |
 | :-------- | :-------------------------                                       |
@@ -12,8 +12,9 @@
 | `$ docker start <container-id>`  | This command starts the container by its ID.                 |
 | `$ docker stop <container-id>`  | This command stop the container by its ID.                 |
 | `$ docker rm <container-id>`  | This command delete the container by its ID.                 |
+| `$ docker build <DOCKERFILE_PATH> --tag <IMAGE_NAME>`  | This command create an docker image from DockerFile.                 |
 
-#### Additional commands list:
+## Additional commands list:
 
 | command   | Description                                                      |
 | :-------- | :-------------------------                                       |
